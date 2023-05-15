@@ -22,9 +22,9 @@ Cyber Security
 ![](https://github-contributor-stats.vercel.app/api?username=anubi5egypt&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://giphy.com/gifs/news-group-anonymous-DBfYJqH5AokgM" width="512px"/>
 
 ---
-[![](https://giphy.com/gifs/news-group-anonymous-DBfYJqH5AokgM)](https://giphy.com)
+[![](https://visitcount.itsvg.in/api?id=anubi5egypt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
