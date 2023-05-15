@@ -25,6 +25,6 @@ Cyber Security
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anubi5egypt&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://giphy.com/gifs/news-group-anonymous-DBfYJqH5AokgM)](https://giphy.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
